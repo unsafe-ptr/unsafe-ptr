@@ -35,11 +35,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/JaydenForYou/JaydenForYou/main/assets/bar_graph.png)
-
-
- Last Updated on 29/12/2023 05:00:55 UTC
+ Last Updated on 29/12/2023 05:08:37 UTC
 <!--END_SECTION:waka-->
 ---
