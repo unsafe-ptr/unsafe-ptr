@@ -23,5 +23,37 @@ I am just a web front-end developer and I am glad to meet you!
 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 406.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 963 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I Mostly Code in Go** 
+
+```text
+Go                       13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+Java                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JaydenForYou/JaydenForYou/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/12/2023 03:51:39 UTC
 <!--END_SECTION:waka-->
 ---
