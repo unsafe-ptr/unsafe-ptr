@@ -21,4 +21,7 @@ I am just a web front-end developer and I am glad to meet you!
 
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
+### 📊 This week I spent my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
