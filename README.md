@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-I am just a web front-end and back-end developer and I am glad to meet you!
+I am just a web front-end&back-end developer and I am glad to meet you!
 
 ![fuzzy's github stats](https://github-readme-stats.vercel.app/api?username=JaydenForYou&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
