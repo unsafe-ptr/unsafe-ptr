@@ -22,7 +22,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2047%20mins-blue)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -73,6 +73,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2024 01:01:28 UTC
+ Last Updated on 31/03/2024 01:08:17 UTC
 <!--END_SECTION:waka-->
 ---
