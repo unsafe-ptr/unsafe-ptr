@@ -22,18 +22,18 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C320%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C325%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   102139 commits      █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Monday                   102147 commits      █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 Tuesday                  97384 commits       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 Wednesday                107702 commits      █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Thursday                 101543 commits      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Friday                   104329 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Thursday                 101545 commits      █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Friday                   104332 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
 Saturday                 6867 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 Sunday                   6331 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
@@ -45,27 +45,26 @@ Sunday                   6331 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     29 hrs 19 mins      ██████████████████████░░░   86.54 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-XML                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Properties               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Java Properties          32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Java                     28 hrs 52 mins      █████████████████████░░░░   85.95 % 
+XML                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Properties               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Java Properties          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-IntelliJ IDEA            33 hrs 36 mins      █████████████████████████   99.19 % 
-PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+IntelliJ IDEA            33 hrs 21 mins      █████████████████████████   99.27 % 
+PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  33 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (5.77%)
+⏱ AI Coding Time: 1 hr 57 mins (5.82%)
 
-✍️ 4,771 lines written by AI, 1,565 lines written by hand (75.3% AI-written)
+✍️ 4,771 lines written by AI, 1,664 lines written by hand (74.14% AI-written)
 
 🔤 55,173,098 Input Tokens, 307,062 Output Tokens
 
@@ -74,10 +73,10 @@ Windows                  33 hrs 52 mins      ███████████�
 🧠 5 AI Sessions, 30 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.3% of written lines came from AI
+🤖 AI-Driven — 74.14% of written lines came from AI
 📝 Concise Prompter — average 55 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 88.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -93,6 +92,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 04:31:13 UTC
+ Last Updated on 04/08/2026 04:06:12 UTC
 <!--END_SECTION:waka-->
 ---
