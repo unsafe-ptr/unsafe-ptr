@@ -45,37 +45,37 @@ Sunday                   6395 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     24 hrs 17 mins      ██████████████████████░░░   86.09 % 
-XML                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Java Properties          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Properties               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Java                     16 hrs 58 mins      ██████████████████████░░░   88.51 % 
+XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Properties               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 13 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            19 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (6.93%)
+⏱ AI Coding Time: 16 mins (1.41%)
 
-✍️ 4,771 lines written by AI, 1,547 lines written by hand (75.51% AI-written)
+✍️ 1,270 lines written by AI, 623 lines written by hand (67.09% AI-written)
 
-🔤 55,173,098 Input Tokens, 307,062 Output Tokens
+🔤 16,873,226 Input Tokens, 66,040 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 30 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.51% of written lines came from AI
-📝 Concise Prompter — average 55 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 88.72% of changed lines were hand-edited
+🤖 AI-Driven — 67.09% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 84.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -91,6 +91,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 04:26:33 UTC
+ Last Updated on 06/08/2026 04:22:06 UTC
 <!--END_SECTION:waka-->
 ---
