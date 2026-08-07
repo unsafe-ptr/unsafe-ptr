@@ -22,10 +22,6 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C329%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -45,37 +41,23 @@ Sunday                   6395 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     16 hrs 58 mins      ██████████████████████░░░   88.51 % 
-XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Properties               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Java                     11 hrs 58 mins      ███████████████████████░░   90.36 % 
+Java Properties          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Properties               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 11 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (1.41%)
-
-✍️ 1,270 lines written by AI, 623 lines written by hand (67.09% AI-written)
-
-🔤 16,873,226 Input Tokens, 66,040 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 67.09% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 84.89% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -91,6 +73,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 04:22:06 UTC
+ Last Updated on 07/08/2026 04:36:47 UTC
 <!--END_SECTION:waka-->
 ---
