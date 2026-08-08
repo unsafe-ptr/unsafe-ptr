@@ -22,6 +22,10 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C329%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
@@ -41,17 +45,17 @@ Sunday                   6395 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     11 hrs 58 mins      ███████████████████████░░   90.36 % 
-Java Properties          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Properties               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java                     8 hrs 25 mins       ███████████████████████░░   91.34 % 
+Java Properties          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 15 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            9 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -73,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 04:36:47 UTC
+ Last Updated on 08/08/2026 02:51:58 UTC
 <!--END_SECTION:waka-->
 ---
