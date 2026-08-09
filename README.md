@@ -45,17 +45,17 @@ Sunday                   6395 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     8 hrs 25 mins       ███████████████████████░░   91.34 % 
-Java Properties          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Java                     8 hrs 20 mins       ███████████████████████░░   91.26 % 
+Java Properties          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 13 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            9 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 02:51:58 UTC
+ Last Updated on 09/08/2026 03:29:05 UTC
 <!--END_SECTION:waka-->
 ---
