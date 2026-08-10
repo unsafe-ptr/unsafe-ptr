@@ -29,7 +29,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   103654 commits      █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Monday                   103655 commits      █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 Tuesday                  98982 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 Wednesday                109371 commits      █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 Thursday                 103263 commits      █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
@@ -45,17 +45,17 @@ Sunday                   6395 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     8 hrs 20 mins       ███████████████████████░░   91.26 % 
-Java Properties          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     2 hrs 58 mins       ████████████████████░░░░░   81.44 % 
+Java Properties          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 7 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 03:29:05 UTC
+ Last Updated on 10/08/2026 03:20:11 UTC
 <!--END_SECTION:waka-->
 ---
