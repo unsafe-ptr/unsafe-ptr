@@ -29,8 +29,8 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   108854 commits      █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Tuesday                  104222 commits      █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Monday                   108867 commits      █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Tuesday                  104223 commits      █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 Wednesday                115118 commits      █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 Thursday                 109178 commits      █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
 Friday                   111680 commits      █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
@@ -45,17 +45,17 @@ Sunday                   6619 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     16 hrs 32 mins      ███████████████████████░░   91.57 % 
-XML                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Properties               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-SQL                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Java                     21 hrs 59 mins      ██████████████████████░░░   88.33 % 
+Properties               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+SQL                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 3 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            24 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 02:52:35 UTC
+ Last Updated on 25/08/2026 02:52:19 UTC
 <!--END_SECTION:waka-->
 ---
