@@ -22,20 +22,20 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C460%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C464%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   100571 commits      █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Tuesday                  96704 commits       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Wednesday                106617 commits      █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Thursday                 103707 commits      █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Friday                   103959 commits      █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Saturday                 6682 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Sunday                   5637 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Monday                   101361 commits      █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Tuesday                  97543 commits       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Wednesday                107492 commits      █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Thursday                 104620 commits      █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Friday                   104839 commits      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Saturday                 6719 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Sunday                   5669 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 
@@ -45,17 +45,17 @@ Sunday                   5637 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     23 hrs 47 mins      ███████████████████░░░░░░   77.97 % 
-XML                      2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-SQL                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Java                     23 hrs 45 mins      █████████████████████░░░░   82.32 % 
+XML                      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+SQL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+HTML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            30 hrs 31 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            28 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  30 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 05:23:59 UTC
+ Last Updated on 16/09/2026 05:10:48 UTC
 <!--END_SECTION:waka-->
 ---
