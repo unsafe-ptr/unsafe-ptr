@@ -45,17 +45,17 @@ Sunday                   5765 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 36 mins       █████████████████████░░░░   83.91 % 
-XML                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Java                     9 hrs 34 mins       █████████████████████░░░░   84.13 % 
+XML                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 26 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 26 mins      █████████████████████████   99.97 % 
+Windows                  11 hrs 22 mins      █████████████████████████   99.97 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -78,6 +78,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 05:45:50 UTC
+ Last Updated on 04/10/2026 06:25:02 UTC
 <!--END_SECTION:waka-->
 ---
