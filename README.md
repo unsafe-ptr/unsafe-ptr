@@ -29,7 +29,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   103810 commits      █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Monday                   103812 commits      █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
 Tuesday                  100055 commits      █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 Wednesday                110197 commits      █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 Thursday                 107434 commits      █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
@@ -45,7 +45,7 @@ Sunday                   5765 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 34 mins       █████████████████████░░░░   84.13 % 
+Java                     9 hrs 34 mins       █████████████████████░░░░   84.12 % 
 XML                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
@@ -55,8 +55,7 @@ Properties               3 mins              ░░░░░░░░░░░�
 IntelliJ IDEA            11 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   99.97 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 06:25:02 UTC
+ Last Updated on 05/10/2026 05:58:24 UTC
 <!--END_SECTION:waka-->
 ---
