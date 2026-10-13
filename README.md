@@ -29,11 +29,11 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   106248 commits      █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Tuesday                  102544 commits      █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Monday                   106269 commits      █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Tuesday                  102555 commits      █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 Wednesday                112958 commits      █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Thursday                 110186 commits      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Friday                   110285 commits      █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Thursday                 110187 commits      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Friday                   110296 commits      █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 Saturday                 6947 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 Sunday                   5861 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
@@ -45,17 +45,17 @@ Sunday                   5861 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     16 hrs 24 mins      ██████████████████████░░░   88.50 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Java Properties          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Java                     15 hrs 12 mins      █████████████████████░░░░   82.74 % 
+Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+XML                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Java Properties          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 32 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            18 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 06:19:33 UTC
+ Last Updated on 13/10/2026 07:32:08 UTC
 <!--END_SECTION:waka-->
 ---
