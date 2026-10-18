@@ -22,7 +22,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C566%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C567%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
 
@@ -45,18 +45,18 @@ Sunday                   5861 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     15 hrs 4 mins       █████████████████████░░░░   84.86 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Java                     15 hrs 14 mins      █████████████████████░░░░   85.00 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 46 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            17 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 32 mins      █████████████████████████   98.75 % 
-Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Windows                  17 hrs 42 mins      █████████████████████████   98.76 % 
+Mac                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,6 +78,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 04:32:33 UTC
+ Last Updated on 18/10/2026 04:48:45 UTC
 <!--END_SECTION:waka-->
 ---
