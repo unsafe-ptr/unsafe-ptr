@@ -22,7 +22,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C567%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
 
@@ -45,18 +45,18 @@ Sunday                   5893 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     10 hrs 21 mins      ███████████████████████░░   92.52 % 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Java                     8 hrs 3 mins        ███████████████████████░░   92.87 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 12 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 40 mins       █████████████████████████   100.00 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -79,6 +79,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 05:12:13 UTC
+ Last Updated on 22/10/2026 04:54:36 UTC
 <!--END_SECTION:waka-->
 ---
