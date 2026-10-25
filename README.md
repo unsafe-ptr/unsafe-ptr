@@ -22,7 +22,7 @@ I am just a web front-end&back-end developer and I am glad to meet you!
 [📌 My Blog - 林尽欢](https://iobiji.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C570%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C574%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2057%20mins-blue?style=flat)
 
@@ -45,18 +45,18 @@ Sunday                   5893 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 8 mins        █████████████████████░░░░   84.45 % 
-XML                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Java                     5 hrs 58 mins       █████████████████████░░░░   84.02 % 
+XML                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 15 mins       █████████████████████████   99.99 % 
+IntelliJ IDEA            7 hrs 6 mins        █████████████████████████   99.99 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 15 mins       █████████████████████████   99.99 % 
+Windows                  7 hrs 6 mins        █████████████████████████   99.99 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
@@ -79,6 +79,6 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 04:49:39 UTC
+ Last Updated on 25/10/2026 05:06:41 UTC
 <!--END_SECTION:waka-->
 ---
